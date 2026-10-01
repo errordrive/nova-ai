@@ -1,0 +1,9 @@
+# Android
+build/
+.gradle/
+local.properties
+*.iml
+.idea/
+captures/
+# Gradle wrapper jar is fetched/provided locally; CI installs Gradle directly.
+gradle/wrapper/gradle-wrapper.jar
